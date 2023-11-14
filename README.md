@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! 👋, I'm Matheus Santos</h1>
-<h3 align="center">🌱 I’m currently coursing Analysis and systems development</h3>
+<h3 align="center">🌱 Get to know a little of what I do.</h3>
 <br>
 <div align="center">
 <div class="box">

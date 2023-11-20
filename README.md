@@ -15,7 +15,7 @@
 <br>
 <div class="box">
   <a href="https://github.com/MatheusLSantos">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLSantos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLSantos&layout=compact&langs_count=7&theme=dark"/>
     </div>
     </div>
  <br>
